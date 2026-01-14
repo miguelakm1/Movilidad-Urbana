@@ -1,5 +1,4 @@
-# <img width="1024" height="1536" alt="Copilot_20260114_175153" src="https://github.com/user-attachments/assets/0bc5ccf5-c502-4048-953b-8ceb8e8f7314" />
-Movilidad-Urbana
+#Movilidad-Urbana
 Proyecto de Data Analysis con Python, Pandas, Seaborn y Matplotlib.
 
 Este repositorio contiene un análisis completo que explora la relación entre movilidad urbana y productividad económica en ciudades latinoamericanas, utilizando datos reales provenientes de TomTom Traffic Index y OECD Cities. El objetivo principal es identificar patrones que permitan evaluar en qué ciudades conviene invertir en infraestructura de transporte para mejorar la eficiencia urbana y el desarrollo económico.
